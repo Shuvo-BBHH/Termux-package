@@ -4,7 +4,7 @@ $ apt install git
 
 $ apt install python 
 
-$ git clone https://github.com/Shuvo-BBHH/Termux--Package
+$ git clone https://github.com/Shuvo-BBHH/Termux-Package
 
 $ cd Termux-package
 
