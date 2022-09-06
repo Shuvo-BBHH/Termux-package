@@ -4,14 +4,13 @@ $ apt install git
 
 $ apt install python 
 
-$ git clone https://github.com/Shuvo-BBHH/Termux-Package
+git clone https://github.com/Shuvo-BBHH/Termux-Package
 
-$ cd Termux-package
+cd Termux-package
 
-$ ls
+ls
 
-$ chmod +x *
+chmod +x *
 
-$ ls
-
-$ python shuvo.py
+ls
+python shuvo.py
