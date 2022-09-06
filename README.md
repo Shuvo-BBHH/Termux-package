@@ -13,4 +13,5 @@ ls
 chmod +x *
 
 ls
+
 python shuvo.py
